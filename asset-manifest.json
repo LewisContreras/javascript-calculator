@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/javascript-calculator/static/js/main.ebba136d.chunk.js",
-    "main.js.map": "/javascript-calculator/static/js/main.ebba136d.chunk.js.map",
+    "main.js": "/javascript-calculator/static/js/main.7ff970e8.chunk.js",
+    "main.js.map": "/javascript-calculator/static/js/main.7ff970e8.chunk.js.map",
     "runtime-main.js": "/javascript-calculator/static/js/runtime-main.30f0eea9.js",
     "runtime-main.js.map": "/javascript-calculator/static/js/runtime-main.30f0eea9.js.map",
     "static/js/2.c90daffe.chunk.js": "/javascript-calculator/static/js/2.c90daffe.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.30f0eea9.js",
     "static/js/2.c90daffe.chunk.js",
-    "static/js/main.ebba136d.chunk.js"
+    "static/js/main.7ff970e8.chunk.js"
   ]
 }
